@@ -98,5 +98,8 @@
   <ItemGroup>
     <None Include="Resources\Gordon-Irving-IWork-10-Pages-green.512.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagem1.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

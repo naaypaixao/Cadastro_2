@@ -121,19 +121,22 @@
   <data name="asian_business_woman_manager_analyzing_datum_charts_typing_computer_making_notes_documents_table_office_vintage_color_selective_focus_business_concept" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\asian-business-woman-manager-analyzing-datum-charts-typing-computer-making-notes-documents-table-office-vintage-color-selective-focus-business-concept.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="close_up_portrait_woman_holding_pencil" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\close-up-portrait-woman-holding-pencil.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Gordon_Irving_IWork_10_Pages_green_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gordon-Irving-IWork-10-Pages-green.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="dantegrafico_background_5048665" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\dantegrafico-background-5048665.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="close_up_portrait_woman_holding_pencil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\close-up-portrait-woman-holding-pencil.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="girl_is_typing_laptop_keyboard_girls_hands_keyboard" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\girl-is-typing-laptop-keyboard-girls-hands-keyboard.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Gordon_Irving_IWork_10_Pages_green_512" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Gordon-Irving-IWork-10-Pages-green.512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="hand_that_plays_smartphone_is_written_with_white_chalk_his_hand_draw_concept" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hand-that-plays-smartphone-is-written-with-white-chalk-his-hand-draw-concept.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Imagem1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Imagem1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
