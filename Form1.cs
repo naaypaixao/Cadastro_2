@@ -46,5 +46,10 @@ namespace Cadastro_2
         {
             BackgroundImage = Properties.Resources.girl_is_typing_laptop_keyboard_girls_hands_keyboard;
         }
+
+        private void Btn_Deastivar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
